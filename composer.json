@@ -1,0 +1,12 @@
+{
+    "name": "barbosafernandes/atividade-composer",
+    "authors": [
+        {
+            "name": "barbosafernandes",
+            "email": "warlley_1996@hotmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5"
+    }
+}
